@@ -49,6 +49,9 @@
     <Reference Include="DevExpress.Mvvm.v14.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
+    <Reference Include="DevExpress.Printing.v14.2.Core">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
     <Reference Include="DevExpress.Xpf.Core.v14.2">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
